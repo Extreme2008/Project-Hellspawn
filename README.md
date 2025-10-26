@@ -20,10 +20,15 @@ you need Unity 6.0 or higher.
 
 --CONTROLS--
 Look = Mouse
+
 Walk = W, A, S, D
+
 Jump = Space
+
 Crouch = Left Control
+
 Sprint = Left Shift
+
 
 --CONTRIBUTING--
 If you find a bug, glitch or other, please open an issue explaining in detail. I will fix it as soon as i can.
