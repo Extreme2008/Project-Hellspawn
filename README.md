@@ -18,7 +18,9 @@ Built with Unity 6.0
 3. the first weapon (Fists)
 
 --HOW TO RUN--
+
 you need Unity 6.0 or higher.
+
 1. Clone this repository
 
 2. open it in Unity Hub
@@ -28,6 +30,7 @@ you need Unity 6.0 or higher.
 4. Press Play and shoot away!
 
 --CONTROLS--
+
 Look = Mouse
 
 Walk = W, A, S, D
@@ -40,16 +43,19 @@ Sprint = Left Shift
 
 
 --CONTRIBUTING--
+
 If you find a bug, glitch or other, please open an issue explaining in detail. I will fix it as soon as i can.
 
 I'm also always looking for contributors! If you Would like to join me as a sprite artist, programmer, level designer, sound designer, or composer, please contact me!
 
 --LICENSE--
+
 This project is under the MIT Licence. feel free to use it's assets, just credit me.
 
 This Project is intended as an Educational tool.
 
 --CREDITS--
+
 Assets from Freedoom
 
 Inspired by DOOM (1993) by ID Software
